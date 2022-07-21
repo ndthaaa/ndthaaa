@@ -2,13 +2,11 @@
 
 
 
-- 🏠 &nbsp; Currenctly in Yogyakarta, Indonesia
-- 💻 &nbsp; Currenctly learning Flutter for App Development and project management using Trello
-- 🏢 &nbsp; Currenctly working at [bsi.co.id](https://www.bsi.co.id/)
+- 🏠 &nbsp; Currently in Yogyakarta, Indonesia
+- 💻 &nbsp; Currently learning Flutter for App Development and project management using Trello
+- 🏢 &nbsp; Currently working at [bsi.co.id](https://www.bsi.co.id/)
 - I love coffee ☕ and chocolatte 🍫
 - ⚡ fun fact : nature ⛰️🌊🌲 is all I need after code 
-
-
 
 
 ## **🤝🏻 &nbsp;Reach me at**
