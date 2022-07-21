@@ -1,4 +1,4 @@
-#<img alt="Hello" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="33px"> Hi, I'm Nindi.
+# <img alt="Hello" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="33px"> Hi, I'm Nindi.
 
 
 
