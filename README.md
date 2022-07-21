@@ -1,11 +1,9 @@
 # Hi <img alt="Hello" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="33px">. I'm Nindi.
 
-<!--<h3 align="center">
-<a href= hai </a>
-</h3>-->
+
 
 - 🏠 &nbsp; Currenctly in Yogyakarta, Indonesia
-- 💻 &nbsp; Currenctly learning Flutter for App Development
+- 💻 &nbsp; Currenctly learning Flutter for App Development and project management using Trello
 - 🏢 &nbsp; Currenctly working at [bsi.co.id](https://www.bsi.co.id/)
 - I love coffee ☕ and chocolatte 🍫
 - ⚡ fun fact : nature ⛰️🌊🌲 is all I need after code 
