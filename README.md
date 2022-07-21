@@ -15,3 +15,4 @@
 <a href="mailto:ndithaa@gmail.com"><img src="https://img.shields.io/badge/-ndithaa@gmail.com-D14836?style=social&logo=gmail&logoColor=F14236"/>&nbsp;
 <a href="https://www.instagram.com/ndthaaa"><img src="https://img.shields.io/badge/-Ndthaaa-D14836?style=social&logo=instagram&logoColor=000000"/>&nbsp;
 <a href="https://www.facebook.com/aisyahninditha"><img src="https://img.shields.io/badge/-Aisyah%20Ninditha-D14836?style=social&logo=facebook&logoColor=0B88EF"/>
+
