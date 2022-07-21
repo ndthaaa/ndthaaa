@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi <img alt="Hello" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="33px">. I'm Nindi.
 
-<!--
-**ndthaaa/ndthaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--<h3 align="center">
+<a href= hai </a>
+</h3>-->
 
-Here are some ideas to get you started:
+- 🏠 &nbsp; Currenctly in Yogyakarta, Indonesia
+- 💻 &nbsp; Currenctly learning Flutter for App Development
+- 🏢 &nbsp; Currenctly working at [bsi.co.id](https://www.bsi.co.id/)
+- I love coffee ☕ and chocolatte 🍫
+- ⚡ fun fact : nature ⛰️🌊🌲 is all I need after code 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+## **🤝🏻 &nbsp;Reach me at**
+
+<a href="https://www.linkedin.com/in/aisyahninditha/"><img src="https://img.shields.io/badge/-Aisyah%20Ninditha-0966C2?style=social&logo=Linkedin"/>&nbsp;
+<a href="mailto:ndithaa@gmail.com"><img src="https://img.shields.io/badge/-ndithaa@gmail.com-D14836?style=social&logo=gmail&logoColor=F14236"/>&nbsp;
+<a href="https://www.instagram.com/ndthaaa"><img src="https://img.shields.io/badge/-Aisyah%20Ninditha-D14836?style=social&logo=instagram&logoColor=000000"/>&nbsp;
+<a href="https://www.facebook.com/aisyahninditha"><img src="https://img.shields.io/badge/-Aisyah%20Ninditha-D14836?style=social&logo=facebook&logoColor=0B88EF"/>
